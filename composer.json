@@ -1,0 +1,19 @@
+{
+  "name": "yuraodessa/plainuseragent",
+  "autoload": {
+    "psr-4": {
+      "Yuriy\\PlainUserAgent\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/support": "^v8.33.1 ",
+    "geoip2/geoip2": "~2.0",
+    "yuraodessa/useragent": "master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/yuralucky/useragent"
+    }
+  ]
+}
