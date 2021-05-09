@@ -10,5 +10,5 @@
     "geoip2/geoip2": "~2.0",
     "yuraodessa/useragent": "1.0.1"
   },
-  "description": "plainuseragent",
+  "description": "plainuseragent"
 }
